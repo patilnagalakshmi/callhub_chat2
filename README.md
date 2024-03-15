@@ -1,5 +1,25 @@
-# Update
+# Callhub_Chat2 
 
-After the new update of React, you won't be able to use CRA. But you can easily create your applications with Vite before following the video tutorial.
+## Registration
 
-[Create a React App with Vite](https://github.com/safak/youtube23/tree/react-mini)
+- Users are required to register using their email.
+- The user ID is automatically set as their name during registration.
+- A valid email and a password containing a combination of characters, numbers, and special characters are mandatory.
+- Users are also prompted to select an image during registration.
+
+## Search Functionality
+
+- Once registered, users can search for other users by entering their user ID in the search field and clicking the "Search" button.
+
+## User Interaction
+
+- If a user with the specified user ID exists, their details will be displayed.
+- Users can click on the displayed user to add them to their contacts.
+
+## Chat Feature
+
+- After adding a user to contacts, users can initiate a chat with them.
+
+## Logout
+
+- Users can log out by clicking the "Logout" button.
